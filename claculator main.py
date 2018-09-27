@@ -34,7 +34,7 @@ if Sign == "5":
 if Sign == "6":
     Num1 = float(input("enter number"))
     Result = (math.sqrt(float(Num1)))
-\
+
 if Sign == "5":
     print(Result1)
     print(Result2)
